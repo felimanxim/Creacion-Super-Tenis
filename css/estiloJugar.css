@@ -1,0 +1,146 @@
+h1{
+	font-family:Winkie Bold;
+	color:green;
+	font-style:98px;
+	margin:35px;
+	font-size: 55px;
+	text-align: center;
+	}
+#lista1{
+		list-style-type: none; 
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden; 
+	    overflow: hidden;
+		}
+li a{ 
+   float: left; 
+  display: block;
+  color: white;
+  padding: 16px 80px;
+  text-decoration: none;
+  font-size: 30px;
+  background-color: green;
+  border: 5px solid white;
+   }
+
+#titulo{
+	font-family:Algerian;
+	text-align: center;
+	color: #33425B;
+}
+section{
+	float: left; /*flotante derecho*/
+	max-width: 68%;
+	font-family: Arial;
+	font-size: 20px;
+	color: #6C5B7B;
+	padding: 5px;
+	padding-left: 40px;
+	text-align: justify;
+}
+
+#consejo{	
+	margin: 0;
+	padding: 0;
+	overflow: hidden; /*evitar desbordamiento*/
+}
+aside{
+	float: right; /*flotante*/
+	max-width: 25%; /* prcentaje de pantalla*/
+	font-family: AvantGarde Md BT;
+	font-size:  16px;
+	color: #00204A;
+	text-align: justify;
+	padding-right: 30px;
+	padding-top: 30px;
+	
+}
+#advertencias{
+	margin: 0;
+	padding: 0;
+	overflow: hidden; /*evitar desbordamiento*/
+}
+
+
+   	
+   	footer{
+	clear: both; /*limpia float*/
+	background-color: #FFC77F;
+	padding: 30PX;
+	text-align: center;
+}
+h1{
+	font-family:Winkie Bold;
+	color:green;
+	font-style:98px;
+	margin:35px;
+	font-size: 55px;
+	text-align: center;
+	}
+	#lista1{
+		list-style-type: none; 
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden; 
+	    overflow: hidden;
+		}
+li a{ 
+   float: left; 
+  display: block;
+  color: white;
+  padding: 16px 80px;
+  text-decoration: none;
+  font-size: 30px;
+  background-color: green;
+  border: 5px solid white;
+   }
+
+#titulo{
+	font-family:Arial;
+	text-align: center;
+	color: green;
+}
+section{
+	float: left; /*flotante derecho*/
+	max-width: 68%;
+	font-family: Arial;
+	font-size: 20px;
+	color: green;
+	padding: 5px;
+	padding-left: 40px;
+	text-align: justify;
+}
+
+#consejo{	
+	margin: 0;
+	padding: 0;
+	overflow: hidden; /*evitar desbordamiento*/
+}
+aside{
+	float: right; /*flotante*/
+	max-width: 25%; /* prcentaje de pantalla*/
+	font-family: AvantGarde Md BT;
+	font-size:  16px;
+	color: black;
+	text-align: justify;
+	padding-right: 30px;
+	padding-top: 30px;
+}
+#advertencias{
+	margin: 0;
+	padding: 0;
+	overflow: hidden; /*evitar desbordamiento*/
+}
+
+
+   	
+   	footer{
+	clear: both; /*limpia float*/
+	background-color: #8B0000;
+	padding: 30PX;
+	text-align: center;
+}
+li a:hover{
+		background-color: #8B0000 ;
+		}

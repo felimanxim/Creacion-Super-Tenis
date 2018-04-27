@@ -1,0 +1,74 @@
+body{
+	width: 100%;
+
+	}
+	h1{
+	font-family:Winkie Bold;
+	color:green;
+	font-style:98px;
+	margin:35px;
+	font-size: 55px;
+	text-align: center;
+	}
+	#lista1{
+		list-style-type: none; 
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden; 
+	    overflow: hidden;
+	    text-align: center;
+		}
+
+li a{ 
+   float: left; 
+  display: block;
+  color: white;
+  padding: 16px 80px;
+  text-decoration: none;
+  font-size: 30px;
+  background-color: green;
+  border: 5px solid white;
+   }
+   aside{
+   	float: right; 
+   	max-width: 15%;
+   	padding: 25px;
+   	margin: 25px;
+   	text-align: left;
+   	text-align: justify;
+   	color: white;
+   	}
+   	#img1{
+   		float: right;
+   		padding: 25px;
+   	}
+   	footer{
+	clear: both; 
+	background-color: #8B0000;
+	padding: 30PX;
+	text-align: center;
+}
+#it{
+	font-family: Elephant;
+	color: green;
+}
+
+article{
+    font-family: Arial;
+    color: black;
+    text-align: left
+    padding:20px;
+    margin: 20px;
+    padding-right: 35px;
+    text-align: justify;
+    color: red;
+    font-size: 25px;
+}
+
+	
+
+
+li a:hover{
+		background-color: #8B0000 ;
+		}
+

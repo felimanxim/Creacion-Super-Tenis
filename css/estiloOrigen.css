@@ -1,0 +1,66 @@
+h1{
+	font-family:Winkie Bold;
+	color:green;
+	font-style:98px;
+	margin:35px;
+	font-size: 55px;
+	text-align: center;
+	}
+	#lista1{
+		list-style-type: none; 
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden; 
+	    overflow: hidden;
+		}
+
+li a{ 
+   float: left; 
+  display: block;
+  color: white;
+  padding: 16px 80px;
+  text-decoration: none;
+  font-size: 30px;
+  background-color: green;
+  border: 5px solid white;
+   }
+  
+footer{
+	clear: both; /*limpia float*/
+	background-color: #8B0000;
+	padding: 30PX;
+	text-align: center;
+}
+
+#img6 {
+	float: left;
+	padding: 20px;
+	
+	}
+
+
+#imagen2{
+		float: right;
+		padding: 20px;
+
+		}
+
+p{
+	text-align: justify;
+	padding: 30px;
+	color: #000080;
+	font-size: 25px;
+
+
+	}
+h2{
+	font-family:Arial;
+	color:green;
+	font-style:98px;
+	margin:0px;
+	font-size: 25px;
+	text-align: center;
+	}
+li a:hover{
+		background-color: #8B0000 ;
+	}
